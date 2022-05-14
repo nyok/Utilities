@@ -1,0 +1,15 @@
+{
+	"name": "translateInGoogleTranslateJpToEn",
+	"description": "Translate in Google Translate (Japanese to English)",
+	"version": "1.0.0",
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon48.png"
+	},
+	"permissions": ["contextMenus"],
+	"background": {
+		"persistent": false,
+		"scripts": ["background.js"]
+	},
+	"manifest_version": 2
+}
