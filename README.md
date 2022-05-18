@@ -4,3 +4,6 @@
 [Translate in Google Translate (Japanese to English)](https://github.com/nyok/Utilities/tree/main/Google%20Chrome/Extensions/translateInGoogleTranslateJpToEn)
 <img src="docs/screenshot_translateInGoogleTranslateJpToEn.png" alt="Screenshot" width="830">
 
+
+## Console
+[Yes or No](https://github.com/nyok/Utilities/tree/main/Console/YesOrNo) - Randomly displays "Yes" or "No"
