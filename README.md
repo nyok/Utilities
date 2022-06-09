@@ -9,6 +9,7 @@
 [Yes or No](https://github.com/nyok/Utilities/tree/main/Console/YesOrNo) - Randomly displays "Yes" or "No"
 
 
-Images
+## Images
 [createImageBookSet](https://github.com/nyok/Utilities/tree/main/Images/createImageBookSet) - Bash script to transform and merge an image together
+
 <img src="docs/screenshot_createImageBookSet.jpg" alt="Screenshot" width="360">
