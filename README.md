@@ -19,10 +19,3 @@
 [createImageBookSet](https://github.com/nyok/Utilities/tree/main/Images/createImageBookSet) - Bash script to transform and merge an image together
 <br>
 <img src="docs/screenshot_createImageBookSet.jpg" alt="Screenshot" width="360">
-
-## PingAndTelegramNotify
-[PingAndTelegramNotify](https://github.com/nyok/Utilities/tree/main/Images/PingAndTelegramNotify) - Script continuously monitors the availability of a specified IP address or domain and sends notification messages to a Telegram channel if the target becomes unavailable.
-
-## Screenshsot
-[ScreenshotWithChromedriverAndSelenium](https://github.com/nyok/Utilities/tree/main/Images/ScreenshotWithChromedriverAndSelenium) - Create a screenshot of a webpage using Selenium WebDriver and ChromeDriver
-<br>ChromeDriver matching your Google Chrome version from https://chromedriver.chromium.org/downloads
