@@ -26,3 +26,7 @@
 ## Screenshsot
 [ScreenshotWithChromedriverAndSelenium](https://github.com/nyok/Utilities/tree/main/ScreenshotWithChromedriverAndSelenium) - Create a screenshot of a webpage using Selenium WebDriver and ChromeDriver
 <br>ChromeDriver matching your Google Chrome version from https://chromedriver.chromium.org/downloads
+
+## CreateGalleryFromFolder
+[CreateGalleryFromFolder](https://github.com/nyok/Utilities/tree/main/CreateGalleryFromFolder) - Create thumbnails and html file of gallery (including subfolders)
+
