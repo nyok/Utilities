@@ -30,3 +30,8 @@
 ## CreateGalleryFromFolder
 [CreateGalleryFromFolder](https://github.com/nyok/Utilities/tree/main/CreateGalleryFromFolder) - Create thumbnails and html file of gallery (including subfolders)
 
+## TimematorBackupCleanup
+Script that automatically deletes old .tmbackup files from Timemator, keeping only the last 3 backups. Runs daily at 13:00 via cron.
+```
+0 13 * * * ls -t "/Users/$(whoami)/Library/Application Support/com.catforce.timemator.macos/Backups/"*.tmbackup | tail -n +4 | xargs -I {} rm -- "{}"
+```
